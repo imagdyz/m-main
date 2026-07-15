@@ -219,6 +219,7 @@ function renderHome() {
         <div class="delivery-badge-container">
           <span class="badge badge-success">🛵 دليفري سريع</span>
           <span class="badge badge-warning">🔥 طازج وساخن</span>
+          <span class="badge badge-success">🕘 الدليفري متاح من 9 صباحاً لـ 2 مساءً</span>
         </div>
       </div>
     </section>
